@@ -1,0 +1,16 @@
+# misc
+.DS_Store
+*.pem
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+build/
+node_modules
+package-lock.json
+yarn.lock
+package.json
+.husky
